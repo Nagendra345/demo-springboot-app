@@ -1,2 +1,2 @@
 # demo-springboot-app
-github workflow automation
+# credit-suisse devops challenge
